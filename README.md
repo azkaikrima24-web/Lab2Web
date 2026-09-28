@@ -4,46 +4,30 @@ Nama : Siti Azka Ikrima
 Kelas : 312510315
 Mata Kuliah : Pemrograman Web (Praktikum 2 HTML lanjutan)
 
-1. Apa fungsi <table>, <tr>, <th>, dan <td>? 
-2. Apa perbedaan <th> dan <td>? 
-3. Apa fungsi colspan pada tabel? 
-4. Apa fungsi <form> dalam HTML? 
-5. Apa perbedaan radio button dan checkbox? 
-6. Mengapa <label> sebaiknya terhubung dengan id input melalui atribut for? 
-7. Apa perbedaan <textarea> dengan input type text? 
-8. Apa fungsi semantic HTML seperti <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>? 
-9. Apa fungsi required, min, max, dan minlength? 
-10. Apa perbedaan elemen <audio> dan <video>? 
+# Soal
+1. Apa fungsi `<table>`, `<tr>`, dan `<td>`?
+2. Apa perbedaan `<th>` dan `<td>`?
+3. Apa fungsi `colspan` pada tabel?
+4. Apa fungsi `<form>` dalam HTML?
+5. Apa perbedaan radio button dan checkbox?
+6. Mengapa sebaiknya `<label>` terhubung dengan `id` input melalui atribut `for`?
+7. Apa perbedaan `<textarea>` dengan `<input type="text">`?
+8. Apa fungsi semantic HTML seperti `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`, dan `<aside>`?
+9. Apa fungsi `required`, `min`, `max`, dan `minlength`?
+10. Apa perbedaan elemen `block` dan `inline`?
 
 # Jawab
 
-1. <table> : untuk membuat tabel , <tr> → untuk membuat satu baris pada tabel.
-    <th> → untuk membuat sel header atau judul kolom. 
-    <td> → untuk membuat sel yang berisi data.
-2. <th> untuk membuat header/judul kolom pada tabel, <td> untuk membuat sel data pada tabel.
-3. colspan digunakan untuk menggabungkan beberapa kolom menjadi satu sel.
-4. <form> digunakan untuk menerima input atau data dari pengguna melalui 
-berbagai elemen seperti input teks, email, password, select, textarea, dan tombol.
-5. Radio button digunakan untuk memilih satu pilihan dari beberapa pilihan. 
-Checkbox digunakan untuk memilih satu atau beberapa pilihan sekaligus.
-6. Karena for pada <label> dapat dihubungkan dengan id pada input sehingga label 
-menjadi terkait langsung dengan input tersebut.
-7. <input type="text"> digunakan untuk memasukkan teks satu baris, sedangkan <textarea> 
-digunakan untuk memasukkan teks yang lebih panjang dan dapat terdiri dari beberapa baris.
-8. Semantic HTML digunakan untuk membuat struktur halaman web yang memiliki makna yang jelas.
-<header> → bagian kepala halaman atau bagian tertentu.
-<nav> → bagian navigasi.
-<main> → konten utama halaman.
-<section> → mengelompokkan suatu bagian/konten.
-<article> → konten mandiri, seperti artikel atau berita.
-<aside> → konten pelengkap atau informasi tambahan.
-<footer> → bagian kaki halaman atau bagian tertentu.
-9. required → membuat input wajib diisi.
-min → menentukan nilai minimum yang diperbolehkan.
-max → menentukan nilai maksimum yang diperbolehkan.
-minlength → menentukan panjang minimum teks yang harus dimasukkan.
-10. <audio> digunakan untuk menampilkan atau memutar file suara.
-<video> digunakan untuk menampilkan atau memutar file video.
+1. `<table>` digunakan untuk membuat tabel, `<tr>` untuk membuat baris tabel, dan `<td>` untuk membuat sel data pada tabel.
+2. `<th>` digunakan untuk membuat sel header/judul pada tabel, sedangkan `<td>` digunakan untuk membuat sel data.
+3. `colspan` digunakan untuk menggabungkan beberapa kolom menjadi satu.
+4. `<form>` digunakan untuk membuat formulir yang dapat digunakan untuk menerima data dari pengguna.
+5. Radio button digunakan untuk memilih satu pilihan dari beberapa pilihan, sedangkan checkbox memungkinkan pengguna memilih lebih dari satu pilihan.
+6. Agar pengguna dapat mengklik teks label untuk memilih atau mengaktifkan input yang terkait.
+7. `<textarea>` digunakan untuk memasukkan teks yang lebih panjang dan dapat terdiri dari beberapa baris, sedangkan `<input type="text">` umumnya digunakan untuk teks satu baris.
+8. Semantic HTML digunakan untuk memberikan struktur dan makna yang jelas pada bagian-bagian halaman web.
+9. `required` membuat input wajib diisi, `min` menentukan nilai minimum, `max` menentukan nilai maksimum, dan `minlength` menentukan jumlah karakter minimum.
+10. Elemen block biasanya mengambil satu baris penuh, sedangkan elemen inline hanya menggunakan ruang sesuai isi elemennya.
 
 # Praktikum 2
 Code
