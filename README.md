@@ -22,10 +22,14 @@ Mata Kuliah : Pemrograman Web (Praktikum 2 HTML lanjutan)
     <td> → untuk membuat sel yang berisi data.
 2. <th> untuk membuat header/judul kolom pada tabel, <td> untuk membuat sel data pada tabel.
 3. colspan digunakan untuk menggabungkan beberapa kolom menjadi satu sel.
-4. <form> digunakan untuk menerima input atau data dari pengguna melalui berbagai elemen seperti input teks, email, password, select, textarea, dan tombol.
-5. Radio button digunakan untuk memilih satu pilihan dari beberapa pilihan. Checkbox digunakan untuk memilih satu atau beberapa pilihan sekaligus.
-6. Karena for pada <label> dapat dihubungkan dengan id pada input sehingga label menjadi terkait langsung dengan input tersebut.
-7. <input type="text"> digunakan untuk memasukkan teks satu baris, sedangkan <textarea> digunakan untuk memasukkan teks yang lebih panjang dan dapat terdiri dari beberapa baris.
+4. <form> digunakan untuk menerima input atau data dari pengguna melalui 
+berbagai elemen seperti input teks, email, password, select, textarea, dan tombol.
+5. Radio button digunakan untuk memilih satu pilihan dari beberapa pilihan. 
+Checkbox digunakan untuk memilih satu atau beberapa pilihan sekaligus.
+6. Karena for pada <label> dapat dihubungkan dengan id pada input sehingga label 
+menjadi terkait langsung dengan input tersebut.
+7. <input type="text"> digunakan untuk memasukkan teks satu baris, sedangkan <textarea> 
+digunakan untuk memasukkan teks yang lebih panjang dan dapat terdiri dari beberapa baris.
 8. Semantic HTML digunakan untuk membuat struktur halaman web yang memiliki makna yang jelas.
 <header> → bagian kepala halaman atau bagian tertentu.
 <nav> → bagian navigasi.
@@ -38,7 +42,8 @@ Mata Kuliah : Pemrograman Web (Praktikum 2 HTML lanjutan)
 min → menentukan nilai minimum yang diperbolehkan.
 max → menentukan nilai maksimum yang diperbolehkan.
 minlength → menentukan panjang minimum teks yang harus dimasukkan.
-10. <audio> digunakan untuk menampilkan atau memutar file suara, sedangkan <video> digunakan untuk menampilkan atau memutar file video.
+10. <audio> digunakan untuk menampilkan atau memutar file suara.
+<video> digunakan untuk menampilkan atau memutar file video.
 
 # Praktikum 2
 Code
