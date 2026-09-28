@@ -1,7 +1,8 @@
 # Lab2Web - Praktikum 2 HTML Lanjutan
 
 Nama : Siti Azka Ikrima
-Kelas : 312510315
+NIM : 312510315
+Kelas : I251C
 Mata Kuliah : Pemrograman Web (Praktikum 2 HTML lanjutan)
 
 # Soal
